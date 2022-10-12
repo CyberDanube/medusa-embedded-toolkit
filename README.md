@@ -40,21 +40,20 @@ The static compiled tools in this repository are ordered by CPU architecture and
 - MIPS 32 Bit Release 2 Big Endian (MIPS32v2be) &check;
 - MIPS 64 Bit Release 2 Little Endian (MIPS64v2le) &cross;
 - MIPS 64 Bit Release 2 Big Endian (MIPS64v2be) &cross;
-- PowerPC 32 Bit Little Endian (PPC32le) &cross;
 - PowerPC 32 Bit Big Endian (PPC32be) &check;
 - PowerPC 64 Bit Little Endian (PPC64le) &cross;
 - PowerPC 64 Bit Big Endian (PPC64be) &cross;
 - SPARC 32 Bit Little Endian (SPARC32le) &cross;
 - SPARC 32 Bit Big Endian (SPARC32be) &cross;
-- SH4 32 Bit Little Endian (SH432le) &cross;
-- SH4 32 Bit Big Endian (SH432be) &cross;
+- SH4 32 Bit Little Endian (SH432le) &check; (without gdb)
+- SH4 32 Bit Big Endian (SH432be) &check; (without gdb)
 - ix86 Little Endian (ix86le) &check;
 - ix86_64 Little Endian (ix86_64le) &cross;
 
 ## Contributors
 
-* [Sebastian Dietz][2] of [CyberDanube][1]
-* [Thomas Weber][3] of [CyberDanube][1]
+* [Sebastian Dietz][2] - [CyberDanube][1]
+* [Thomas Weber][3] - [CyberDanube][1]
 
 
 [1]: https://cyberdanube.com
